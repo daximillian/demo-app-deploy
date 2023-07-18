@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/daximillian/demo-app
+  newTag: b7ab6261b559f4ecf826eaafb9ce5410dc9e40aa
