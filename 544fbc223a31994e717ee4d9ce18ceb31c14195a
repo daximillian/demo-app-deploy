@@ -1,1 +1,3 @@
 image: ghcr.io/daximillian/demo-app:b7ab6261b559f4ecf826eaafb9ce5410dc9e40aa
+
+env: stage
