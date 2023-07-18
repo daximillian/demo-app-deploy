@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/daximillian/demo-app
-  newTag: latest
+  newTag: 04cc44f303c0988df19d038130d69cc2026bca68
